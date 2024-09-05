@@ -11,4 +11,6 @@ testing fast forward
 | app4 | [0.0.11](https://github.com) |
 | app5           | [0.0.13](https://github.com) |
 
+<!--- Application changelogs completed -->
+
 ### Testing
