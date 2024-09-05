@@ -3,13 +3,10 @@ testing fast forward
 
 
 ### Application changelogs
-| Compoments                | Versions                                                                                                 |
-|---------------------------|----------------------------------------------------------------------------------------------------------|
-| app1            | [0.0.40](https://github.com)        |
-| app2          | [1.0.7](https://github.com)         |
-| app3            | [1.0.4](https://github.com)          |
-| app4 | [0.0.11](https://github.com) |
-| app5           | [0.0.13](https://github.com) |
+
+| Components | Versions |
+|------------|----------|
+| merger-test | [dev/1.0.2](https://github.com/jsarvabhowma/merger-test/releases/tag/dev/1.0.2) |
 
 <!--- Application changelogs completed -->
 
