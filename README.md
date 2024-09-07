@@ -9,8 +9,8 @@ adfglnsdlfkm
 
 | Components | Versions |
 |------------|----------|
-| sarva-test | [dev/1.0.2](https://github.com/jsarvabhowma/merger-test/releases/tag/dev/1.0.2) |
-| gopi-test | [dev/1.2.3](https://gdfkhgal) |
+| merger-test | [dev/1.0.2](https://github.com/jsarvabhowma/merger-test/releases/tag/dev/1.0.2) |
+
 <!--- Application changelogs completed -->
 
 sd;m;sdgmb's
